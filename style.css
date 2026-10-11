@@ -58,7 +58,7 @@ ul, ol { margin: 0; padding: 0; }
 .site-header { position: sticky; top: 0; z-index: 100; background: var(--navy); color: #fff; box-shadow: 0 2px 12px rgba(0,0,0,.25); }
 .header-inner { display: flex; align-items: center; justify-content: space-between; min-height: var(--header-h); gap: 1rem; }
 .brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; color: #fff; }
-.logo { width: 56px; height: auto; flex: none; background: #fff; border-radius: 50%; padding: 3px; }
+.logo { width: 56px; height: auto; flex: none; border-radius: 50%; padding: 3px; }
 .brand-text { display: flex; flex-direction: column; line-height: 1.1; }
 .brand-name { font-family: var(--head); font-weight: 700; font-size: 1.25rem; color: #fff; }
 .brand-sub { font-size: .85rem; color: var(--gold); letter-spacing: .02em; }
